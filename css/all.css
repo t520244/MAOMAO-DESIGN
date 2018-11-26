@@ -507,7 +507,7 @@ section {
 }
 
 .work02 {
-    margin-left: 3rem;
+    margin-left: 2rem;
 }
 
 .work03 {
@@ -535,6 +535,7 @@ section {
     }
     .work01 {
         margin-left: 3rem;
+        border: 2px solid red;
     }
     .work02 {
         margin-left: 0.5rem;
