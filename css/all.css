@@ -539,6 +539,7 @@ section {
     .work02 {
         /* margin-left: 1rem; */
         margin-top: 5rem;
+        border: 2px solid red;
     }
     .work03 {
         margin-left: 3rem;
