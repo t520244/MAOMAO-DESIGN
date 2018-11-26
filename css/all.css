@@ -510,6 +510,11 @@ section {
     margin-left: 5rem;
 }
 
+.work03 {
+    margin-left: 5rem;
+    border: 2px solid red;
+}
+
 
 /* 動態效果 */
 
@@ -533,6 +538,10 @@ section {
         margin-left: 3rem;
     }
     .work02 {
+        margin-left: 3rem;
+        margin-top: 5rem;
+    }
+    .work03 {
         margin-left: 3rem;
         margin-top: 5rem;
     }
